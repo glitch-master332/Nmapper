@@ -72,4 +72,3 @@ setup_telegram_bot()
 # Prompt the user for an IP address to scan
 ip_address = input("Enter the IP address you want to scan: ")
 run_nmap_scan(ip_address)
-
